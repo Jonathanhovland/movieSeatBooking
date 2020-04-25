@@ -1,1 +1,3 @@
 # movieSeatBooking
+
+Javascript / HTML / CSS
